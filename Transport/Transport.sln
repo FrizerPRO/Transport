@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportConsole", "Transport\TransportConsole.csproj", "{649DADB2-7F3A-4EEF-B6D3-813E7284EFAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKRLib", "EKRLib\EKRLib.csproj", "{8DAA6953-7565-4962-90D9-D6AE9FDF3F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{649DADB2-7F3A-4EEF-B6D3-813E7284EFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649DADB2-7F3A-4EEF-B6D3-813E7284EFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649DADB2-7F3A-4EEF-B6D3-813E7284EFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649DADB2-7F3A-4EEF-B6D3-813E7284EFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DAA6953-7565-4962-90D9-D6AE9FDF3F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAA6953-7565-4962-90D9-D6AE9FDF3F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAA6953-7565-4962-90D9-D6AE9FDF3F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAA6953-7565-4962-90D9-D6AE9FDF3F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4859E256-B4CD-4C55-B0C4-2CEAB13AC575}
+	EndGlobalSection
+EndGlobal
